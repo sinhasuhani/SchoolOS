@@ -20,7 +20,7 @@ export const NewStudentModal: React.FC = () => {
   const [contactNumber, setContactNumber] = useState('+91 98100 12345');
   const [email, setEmail] = useState('');
   const [address, setAddress] = useState('Sector 14, Gurugram, Haryana');
-  const [house, setHouse] = useState<'Tagore' | 'Ashoka' | 'Shivaji' | 'Raman'>('Tagore');
+  const [house, setHouse] = useState<'Aravali' | 'Himalayas' | 'Nilgiri' | 'Vindhyas'>('Aravali');
   const [category, setCategory] = useState<'General' | 'OBC' | 'SC' | 'ST' | 'EWS'>('General');
   const [bloodGroup, setBloodGroup] = useState('B+');
 
@@ -197,10 +197,10 @@ export const NewStudentModal: React.FC = () => {
                 onChange={(e) => setHouse(e.target.value as any)}
                 className="w-full text-sm px-3 py-2 rounded-xl border border-slate-200 focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white"
               >
-                <option value="Tagore">Tagore</option>
-                <option value="Ashoka">Ashoka</option>
-                <option value="Shivaji">Shivaji</option>
-                <option value="Raman">Raman</option>
+                <option value="Aravali">Aravali</option>
+                <option value="Himalayas">Himalayas</option>
+                <option value="Nilgiri">Nilgiri</option>
+                <option value="Vindhyas">Vindhyas</option>
               </select>
             </div>
           </div>

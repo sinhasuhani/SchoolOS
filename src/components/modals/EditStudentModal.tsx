@@ -145,10 +145,10 @@ export const EditStudentModal: React.FC = () => {
                 onChange={(e) => setForm({ ...form, house: e.target.value as any })}
                 className="w-full text-sm px-3 py-2 rounded-xl border border-slate-200 focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white"
               >
-                <option value="Tagore">Tagore</option>
-                <option value="Ashoka">Ashoka</option>
-                <option value="Shivaji">Shivaji</option>
-                <option value="Raman">Raman</option>
+                <option value="Aravali">Aravali</option>
+                <option value="Himalayas">Himalayas</option>
+                <option value="Nilgiri">Nilgiri</option>
+                <option value="Vindhyas">Vindhyas</option>
               </select>
             </div>
           </div>

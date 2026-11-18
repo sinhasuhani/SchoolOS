@@ -237,7 +237,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 97.5,
     category: 'General',
-    house: 'Tagore',
+    house: 'Aravali',
     joinedDate: '2021-04-05',
   },
   {
@@ -261,7 +261,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 98.8,
     category: 'General',
-    house: 'Shivaji',
+    house: 'Himalayas',
     joinedDate: '2021-04-06',
   },
   {
@@ -285,7 +285,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 95.2,
     category: 'General',
-    house: 'Ashoka',
+    house: 'Nilgiri',
     joinedDate: '2021-04-08',
   },
   {
@@ -309,7 +309,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 96.0,
     category: 'General',
-    house: 'Raman',
+    house: 'Vindhyas',
     joinedDate: '2021-04-10',
   },
   {
@@ -333,7 +333,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Late',
     attendanceRate: 72.4, // Deliberate low attendance (<75%) for administrative alerts
     category: 'General',
-    house: 'Tagore',
+    house: 'Aravali',
     joinedDate: '2021-04-12',
   },
 
@@ -359,7 +359,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 94.6,
     category: 'General',
-    house: 'Tagore',
+    house: 'Aravali',
     joinedDate: '2021-04-05',
   },
   {
@@ -383,7 +383,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 91.5,
     category: 'OBC',
-    house: 'Ashoka',
+    house: 'Nilgiri',
     joinedDate: '2021-04-07',
   },
   {
@@ -407,7 +407,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Absent',
     attendanceRate: 88.0,
     category: 'General',
-    house: 'Shivaji',
+    house: 'Himalayas',
     joinedDate: '2021-04-09',
   },
 
@@ -433,7 +433,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 97.8,
     category: 'General',
-    house: 'Raman',
+    house: 'Vindhyas',
     joinedDate: '2023-04-10',
   },
   {
@@ -457,7 +457,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 93.0,
     category: 'General',
-    house: 'Ashoka',
+    house: 'Nilgiri',
     joinedDate: '2023-04-11',
   },
   {
@@ -481,7 +481,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 96.5,
     category: 'General',
-    house: 'Tagore',
+    house: 'Aravali',
     joinedDate: '2023-04-12',
   },
 
@@ -507,7 +507,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 95.5,
     category: 'General',
-    house: 'Ashoka',
+    house: 'Nilgiri',
     joinedDate: '2023-04-12',
   },
   {
@@ -531,7 +531,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 98.0,
     category: 'General',
-    house: 'Shivaji',
+    house: 'Himalayas',
     joinedDate: '2023-04-14',
   },
 
@@ -557,7 +557,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 97.0,
     category: 'OBC',
-    house: 'Ashoka',
+    house: 'Nilgiri',
     joinedDate: '2024-04-01',
   },
   {
@@ -581,7 +581,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 93.8,
     category: 'General',
-    house: 'Raman',
+    house: 'Vindhyas',
     joinedDate: '2024-04-04',
   },
 
@@ -607,7 +607,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 91.4,
     category: 'General',
-    house: 'Tagore',
+    house: 'Aravali',
     joinedDate: '2024-04-15',
   },
   {
@@ -631,7 +631,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 96.2,
     category: 'General',
-    house: 'Shivaji',
+    house: 'Himalayas',
     joinedDate: '2024-04-16',
   },
 
@@ -657,7 +657,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Absent',
     attendanceRate: 69.5, // Low attendance alert (<75%)
     category: 'General',
-    house: 'Raman',
+    house: 'Vindhyas',
     joinedDate: '2022-04-04',
   },
   {
@@ -681,7 +681,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 98.1,
     category: 'General',
-    house: 'Tagore',
+    house: 'Aravali',
     joinedDate: '2022-04-05',
   },
 
@@ -707,7 +707,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 95.0,
     category: 'General',
-    house: 'Shivaji',
+    house: 'Himalayas',
     joinedDate: '2023-04-08',
   },
   {
@@ -731,7 +731,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 97.8,
     category: 'General',
-    house: 'Raman',
+    house: 'Vindhyas',
     joinedDate: '2023-04-02',
   },
   {
@@ -755,7 +755,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Leave',
     attendanceRate: 94.2,
     category: 'OBC',
-    house: 'Shivaji',
+    house: 'Himalayas',
     joinedDate: '2023-04-05',
   },
 
@@ -781,7 +781,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 99.0,
     category: 'General',
-    house: 'Ashoka',
+    house: 'Nilgiri',
     joinedDate: '2024-04-01',
   },
   {
@@ -805,7 +805,7 @@ export const initialStudents: Student[] = [
     attendanceStatus: 'Present',
     attendanceRate: 97.4,
     category: 'General',
-    house: 'Tagore',
+    house: 'Aravali',
     joinedDate: '2024-04-03',
   },
 ];
